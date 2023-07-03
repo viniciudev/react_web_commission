@@ -21,3 +21,4 @@ Tela para consultar vendas:
 ![image](https://github.com/viniciudev/react_web_commission/assets/137787628/3e7b5e4a-8334-4824-982d-8c243f46276a)
 Tela para consultar as comissões criadas:
 ![image](https://github.com/viniciudev/react_web_commission/assets/137787628/b8a0d13b-78c2-4dd5-9ad6-f7e958015746)
+Tela Dashboard
