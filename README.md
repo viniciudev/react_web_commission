@@ -3,6 +3,7 @@ sistema para organizar comissões.
 
 comandos para abrir:
 npm install
+
 npm start
 
 tela cadastro de clientes:
